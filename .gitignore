@@ -1,2 +1,6 @@
 
 .Rbuildignore
+
+.RData
+
+.Rhistory
